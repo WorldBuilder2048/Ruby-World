@@ -20,9 +20,9 @@
 
 <img width="660" height="260" alt="image" src="https://github.com/user-attachments/assets/02d10fd3-fd1f-4852-8b6d-29a27fd5eab0" />
 
-**Ruby Gem** (*crafting*):
+**Ruby Ingot** (*crafting*):
 
-<img width="660" height="260" alt="image" src="https://github.com/user-attachments/assets/4d0eca70-2c18-43fd-852c-ce1bb5164053" />
+<img width="660" height="260" alt="image" src="https://github.com/user-attachments/assets/04a7a4dc-bfc5-4435-9a6b-37dbb7c2257a" />
 
 **Carved Ruby Block** (*crafting*):
 
