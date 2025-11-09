@@ -1,6 +1,6 @@
 # Here a list what you can craft or smelt:
 
-**Rocky Ruby** (*smelting*):
+**Ruby Gem** (*smelting*):
 
 <img width="660" height="260" alt="image" src="https://github.com/user-attachments/assets/4d4725d4-cd75-4e94-9503-772b5ec18f44" />
 
