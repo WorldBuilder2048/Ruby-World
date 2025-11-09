@@ -52,6 +52,21 @@
 
 <img width="660" height="260" alt="image" src="https://github.com/user-attachments/assets/c8566a48-22ce-4e9f-8a7b-2c19b955dd90" />
 
+**Emerald Ingot** (*crafting*):
+
+<img width="660" height="265" alt="image" src="https://github.com/user-attachments/assets/249d018b-14ad-4994-832c-7aa855ecdd63" />
+
+**Compressed Emerald Block** (*crafting*):
+
+<img width="660" height="260" alt="image" src="https://github.com/user-attachments/assets/ee22625a-8d11-440f-b452-26b978b21a7f" />
+
+**Emerald Ingot** (*crafting*):
+
+<img width="660" height="260" alt="image" src="https://github.com/user-attachments/assets/dbae6598-63c0-4eef-bf6a-8b3ed377a68a" />
+
+**Emerald** (*crafting*):
+
+<img width="660" height="260" alt="image" src="https://github.com/user-attachments/assets/32e9ef6a-86e0-4b7d-a8b5-ec9f07739c41" />
 
 # Other crafts that you know:
 
